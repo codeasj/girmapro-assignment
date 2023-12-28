@@ -1,0 +1,75 @@
+[2023-12-28T13:26:34.366Z] Error: readExcelData is not a function
+[2023-12-28T13:28:56.626Z] Error: readExcelData is not a function
+[2023-12-28T13:30:23.845Z] Error: ENOENT: no such file or directory, open './templates/emailTemplate.html'
+[2023-12-28T13:31:27.465Z] Error: sendEmail is not a function
+[2023-12-28T13:33:27.850Z] Error: No recipients defined
+[2023-12-28T13:34:56.521Z] Error: No recipients defined
+[2023-12-28T13:40:39.030Z] Error: No recipients defined
+[2023-12-28T13:40:46.745Z] Error: No recipients defined
+[2023-12-28T13:42:36.675Z] Error: No recipients defined
+[2023-12-28T13:43:43.802Z] Error: No recipients defined
+[2023-12-28T13:47:06.078Z] Error: No recipients defined
+[2023-12-28T13:47:10.901Z] Error: No recipients defined
+[2023-12-28T13:48:11.150Z] Error: No recipients defined
+[2023-12-28T13:50:18.449Z] Error: No recipients defined
+[2023-12-28T13:50:41.944Z] Error: No recipients defined
+[2023-12-28T13:51:08.062Z] Error: No recipients defined
+[2023-12-28T13:51:33.848Z] Email sent to [object Object]. Message ID: <343f664c-e4a9-2381-942b-d116a688ac95@localhost>
+[2023-12-28T13:51:39.873Z] Email sent to [object Object]. Message ID: <165e43a1-a96c-5f0a-f58b-6896af169835@localhost>
+[2023-12-28T13:51:46.412Z] Email sent to [object Object]. Message ID: <0ee94ee6-01f1-6d87-d4fc-2640ace17479@localhost>
+[2023-12-28T13:51:46.415Z] Email sending process completed.
+[2023-12-28T13:58:40.333Z] Email sent to [object Object]. Message ID: <aa613fdf-3d9b-4214-afc6-ff3143b8fb7c@localhost>
+[2023-12-28T13:58:46.407Z] Email sent to [object Object]. Message ID: <4862d04e-1f4a-a8ed-6397-458b2adb1774@localhost>
+[2023-12-28T13:58:51.915Z] Email sent to [object Object]. Message ID: <dab8d5c6-efc9-f1e3-25c5-3b975f7e33a0@localhost>
+[2023-12-28T13:58:51.916Z] Email sending process completed.
+[2023-12-28T13:59:03.635Z] Error: No recipients defined
+[2023-12-28T14:00:14.544Z] Error: No recipients defined
+[2023-12-28T14:01:56.512Z] Error: No recipients defined
+[2023-12-28T14:02:17.413Z] Error: No recipients defined
+[2023-12-28T14:04:22.328Z] Error: No recipients defined
+[2023-12-28T14:05:39.113Z] Error: No recipients defined
+[2023-12-28T14:06:54.423Z] Email sent to [object Object]. Message ID: <324748cf-1f35-a513-d127-180c90dccabb@localhost>
+[2023-12-28T14:07:03.043Z] Email sent to [object Object]. Message ID: <2a6b9841-57b1-c563-9e61-ff0b8517d196@localhost>
+[2023-12-28T14:07:11.388Z] Email sent to [object Object]. Message ID: <c6effe40-534c-5fec-69d0-bb2276ec52e7@localhost>
+[2023-12-28T14:07:16.972Z] Email sent to [object Object]. Message ID: <1d751bc3-d27b-522d-6154-3ca046f9366b@localhost>
+[2023-12-28T14:07:16.975Z] Email sending process completed.
+[2023-12-28T14:07:54.149Z] Error: No recipients defined
+[2023-12-28T14:09:38.880Z] Error: No recipients defined
+[2023-12-28T14:17:31.241Z] Error: No recipients defined
+[2023-12-28T14:19:00.496Z] Error: No recipients defined
+[2023-12-28T14:19:06.571Z] Error: No recipients defined
+[2023-12-28T14:21:18.902Z] Error: No recipients defined
+[2023-12-28T14:22:00.558Z] Email sent to [object Object]. Message ID: <6d104c66-7849-bb58-6fd9-911b9b9ea7ed@localhost>
+[2023-12-28T14:22:04.907Z] Email sent to [object Object]. Message ID: <98f50d4c-91e1-6ac1-9ebf-dc8e71b18524@localhost>
+[2023-12-28T14:22:10.073Z] Email sent to [object Object]. Message ID: <c94d7fc8-3275-512e-b95b-cedd978df5fc@localhost>
+[2023-12-28T14:22:10.075Z] Email sending process completed.
+[2023-12-28T14:26:48.149Z] Email sent to [object Object]. Message ID: <4713deed-fe6f-ffc1-dfe6-57a58384bbb7@localhost>
+[2023-12-28T14:26:52.205Z] Email sent to [object Object]. Message ID: <4ddb8cfd-0654-c377-0d8d-f821fdadf9e8@localhost>
+[2023-12-28T14:26:56.625Z] Email sent to [object Object]. Message ID: <285435d1-4d12-9607-2aa0-1aec1dee915c@localhost>
+[2023-12-28T14:26:56.626Z] Email sending process completed.
+[2023-12-28T14:27:24.697Z] Error: No recipients defined
+[2023-12-28T14:38:43.255Z] Error: No recipients defined
+[2023-12-28T14:39:36.387Z] Error: No recipients defined
+[2023-12-28T14:48:39.662Z] Error: No recipients defined
+[2023-12-28T14:49:01.965Z] Email sent to [object Object]. Message ID: <41d83ee2-9e42-c6ff-892a-1b0c7e99d3e4@localhost>
+[2023-12-28T14:49:06.814Z] Email sent to [object Object]. Message ID: <81d385b6-57ec-ba20-c214-5be90e0c7aca@localhost>
+[2023-12-28T14:49:11.944Z] Email sent to [object Object]. Message ID: <9926159b-957d-aac0-5836-8e1b319c442e@localhost>
+[2023-12-28T14:49:11.945Z] Email sending process completed.
+[2023-12-28T14:55:46.816Z] Email sent to [object Object]. Message ID: <8b420e08-98f3-9402-98e4-81bde18b2847@localhost>
+[2023-12-28T14:55:51.829Z] Email sent to [object Object]. Message ID: <b9decf88-6525-9bab-226d-2ee9aedf2c7f@localhost>
+[2023-12-28T14:55:56.956Z] Email sent to [object Object]. Message ID: <700b1b5c-032f-67cc-731b-2b7e9e9a3ed4@localhost>
+[2023-12-28T14:55:56.958Z] Email sending process completed.
+[2023-12-28T15:00:04.865Z] Error: No recipients defined
+[2023-12-28T15:04:43.315Z] Error: No recipients defined
+[2023-12-28T15:04:59.794Z] Error: No recipients defined
+[2023-12-28T15:05:05.775Z] Error: No recipients defined
+[2023-12-28T15:05:14.802Z] Error: No recipients defined
+[2023-12-28T15:16:54.803Z] Error: No recipients defined
+[2023-12-28T15:17:24.328Z] Email sent to [object Object]. Message ID: <448118b6-ab78-cd3f-8b3e-1cd7050a10cf@localhost>
+[2023-12-28T15:17:31.185Z] Email sent to [object Object]. Message ID: <74bca983-4467-33b8-4e0d-968912cc843c@localhost>
+[2023-12-28T15:17:37.838Z] Email sent to [object Object]. Message ID: <7f8ba62c-1e5b-b891-1078-b79990b62ce5@localhost>
+[2023-12-28T15:17:37.841Z] Email sending process completed.
+[2023-12-28T15:23:51.650Z] Email sent to [object Object]. Message ID: <5278bb9d-e661-ad6a-f6cb-dbb40683c16b@localhost>
+[2023-12-28T15:24:01.692Z] Email sent to [object Object]. Message ID: <2df7a7e8-92ef-d62d-d1ef-f7c79c17b0ac@localhost>
+[2023-12-28T15:24:09.981Z] Email sent to [object Object]. Message ID: <79bf3f6b-6cc6-a87c-7829-577753d8e2fa@localhost>
+[2023-12-28T15:24:09.984Z] Email sending process completed.
