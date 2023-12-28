@@ -36,5 +36,9 @@ Use a logging mechanism to store logs in a file (./logs/application.log).
 How to run:-
 
 run "npm i"
+
+
 set up env file , by entering your email address and app password which you will get in your two factor authentication setting,
+
+
 run "node index.js" to finally run the application.
